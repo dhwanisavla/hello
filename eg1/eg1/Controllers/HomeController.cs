@@ -9,6 +9,8 @@ namespace eg1.Controllers
     //This is home controller
     public class HomeController : Controller
     {
+
+        //This is master branch
         //This is feature branch
         public ActionResult Index()
         {
